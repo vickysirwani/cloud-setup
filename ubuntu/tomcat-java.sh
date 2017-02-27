@@ -5,4 +5,4 @@ sudo add-apt-repository ppa:webupd8team/java -y
 sudo apt-get -y install mysql-client
 sudo apt-get -y install git
 sudo apt-get -y install oracle-java8-installer
-sudo apt-get -y install tomcat7
+sudo apt-get -y install tomcat8
